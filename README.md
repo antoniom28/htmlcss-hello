@@ -1,1 +1,2 @@
-# icons-mhw.jpg
+# <img src="icons-mhw.jpg">
+
